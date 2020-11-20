@@ -1,0 +1,14 @@
+.brand-button {
+    border-radius: 20px 0 20px 0;
+    color: #ffff;
+    padding: 10px;
+    font-weight: 500;
+    background: #1fdeb3;
+    background: linear-gradient(132deg,#1fdeb3 20%,#01a1f9);
+    outline: none;
+    border: none;
+}
+
+#white-shadow {
+    border-radius: 50px 0 50px 0;
+}
