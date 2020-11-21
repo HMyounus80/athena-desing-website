@@ -5,10 +5,13 @@
     font-weight: 500;
     background: #1fdeb3;
     background: linear-gradient(132deg,#1fdeb3 20%,#01a1f9);
-    outline: none;
     border: none;
 }
 
 #white-shadow {
     border-radius: 50px 0 50px 0;
+}
+.brand {
+    background: #1fdeb3;
+    background: linear-gradient(132deg,#1fdeb3 20%,#01a1f9);
 }

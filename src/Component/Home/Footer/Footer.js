@@ -12,18 +12,20 @@ const Footer = () => {
            <div className="container">
                <div className="row justify-content-center">
                    <div className="col-sm-6 col-md-4">
-                       <img className="w-50" src={Logo} alt=""/>
+                       <img className="w-25" src={Logo} alt=""/>
                        <div className="social-icon">
                            <ul className="d-flex w-100 justify-content-center justify-content-sm-start list-unstyled">
-                               <li><img className="img-fluid mr-3" src={fb} alt=""/></li>
-                               <li><img className="img-fluid mr-3" src={twitter} alt=""/></li>
-                               <li><img className="img-fluid mr-3" src={linkedin} alt=""/></li>
-                               <li><img className="img-fluid mr-3" src={dribble} alt=""/></li>
+                               <li><img className="img-fluid mr-4" src={fb} alt=""/></li>
+                               <li><img className="img-fluid mr-4" src={twitter} alt=""/></li>
+                               <li><img className="img-fluid mr-4" src={linkedin} alt=""/></li>
+                               <li><img className="img-fluid mr-4" src={dribble} alt=""/></li>
 
                            </ul>
                        </div>
 
                    </div>
+
+                   <div className="mt-4">
 
                    <div className="col-md-2">
                        <div>
@@ -53,6 +55,7 @@ const Footer = () => {
                                <li><a href="/"> Status</a></li>
                            </ul>
                        </div>
+                   </div>
                    </div>
                </div>
            </div>
